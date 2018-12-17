@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sel_region">
+        <item>@string/str_region1</item>
+        <item>"NR2"</item>
+        <item>"NR4"</item>
+        <item>"NR5"</item>
+    </string-array>
+</resources>
